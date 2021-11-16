@@ -8,7 +8,7 @@
 
 import HttpClient from '../http-client';
 import File from '../../file/file';
-import Url from '../Url';
+import Url from '../url';
 
 export interface CachedData<R> {
   timestamp: number;
