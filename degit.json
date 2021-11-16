@@ -1,6 +1,9 @@
 [
 	{
 		"action": "remove",
-		"files": ["README.md"]
+		"files": [
+      "README.md",
+      "typescript-boilerplate-google-file"
+    ]
 	}
 ]
