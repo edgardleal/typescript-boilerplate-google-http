@@ -8,7 +8,7 @@
 
 import Languagedetect from 'languagedetect';
 import { fromString } from 'html-to-text';
-import Url from './url';
+import Url from './Url';
 import HttpClient from './http-client';
 import AxiosGetClient from './axios/axios-get-client';
 import HttpCashDecorator from './decorators/http-cash-decorator';
